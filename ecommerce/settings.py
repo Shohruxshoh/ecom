@@ -25,7 +25,7 @@ SECRET_KEY = '(br++hxux2yl1zt8rde(c8t$-sz^x3)oy(%q88v^5&(yss4lqu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ecommerceuz.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'ecommerceuz.herokuapp.com']
 
 
 # Application definition
